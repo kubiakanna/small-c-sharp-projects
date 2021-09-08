@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{41884AA0-8EA4-4B00-9D48-0F1BC74B5FBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Merge__Sort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Merge_Sort/Program.cs">
+    <Files>
+      <File FileName="Merge_Sort/Program.cs" Line="57" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Merge_Sort" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

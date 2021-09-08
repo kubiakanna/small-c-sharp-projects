@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{936DC784-A2C2-4F74-B29F-BAB60A9FB4A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quicksort/Program.cs">
+    <Files>
+      <File FileName="Quicksort/Program.cs" Line="61" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quicksort" expanded="True">
+            <Node name="Quicksort" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Quicksort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

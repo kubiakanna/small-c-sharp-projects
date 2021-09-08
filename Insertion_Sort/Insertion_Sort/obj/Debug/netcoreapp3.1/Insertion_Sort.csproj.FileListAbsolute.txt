@@ -1,0 +1,16 @@
+/Users/annakubiak/Projects/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.csprojAssemblyReference.cache
+/Users/annakubiak/Projects/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfoInputs.cache
+/Users/annakubiak/Projects/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfo.cs
+/Users/annakubiak/Projects/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.csproj.CoreCompileInputs.cache
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.deps.json
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.runtimeconfig.json
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.runtimeconfig.dev.json
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.dll
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.pdb
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.csprojAssemblyReference.cache
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfoInputs.cache
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfo.cs
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.csproj.CoreCompileInputs.cache
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.dll
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.pdb
+/Users/annakubiak/Projects/C#_algorithms/Insertion_Sort/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.genruntimeconfig.cache
